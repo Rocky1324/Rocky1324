@@ -1,5 +1,20 @@
 # ![💫 About Me](https://github.com/Rocky1324/Rockhy1324)
 
+## 👋 Hi, I'm Rock Khyshnert!
+
+I'm a **15-year-old** focused on building a solid foundation in computer science.  
+Curiosity drives me, discipline shapes me — and my long-term goal is to contribute to **AI, Machine Learning, and impactful tech projects**. 🚀  
+
+---
+
+##  Currently Learning
+-  **Web Development** – Building interactive sites with HTML, CSS, and JavaScript  
+-  **Python & Flask** – Backend development and databases (SQLite, SQL)  
+-  **Computer Science Fundamentals** – Algorithms, C programming, data structures  
+-  **Data Tools** – Exploring Pandas and NumPy for data analysis  
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@max28090) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khyshnertrock@gmail.com) 
