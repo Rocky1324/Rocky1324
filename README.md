@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Rock Khyshnert!
 
-I'm a **15-year-old** focused on building a solid foundation in computer science.  
+I'm a **teenager** focused on building a solid foundation in computer science.  
 Curiosity drives me, discipline shapes me — and my long-term goal is to contribute to **AI, Machine Learning, and impactful tech projects**. 🚀  
 
 ---
